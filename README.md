@@ -112,7 +112,7 @@ Class abstrak hanya mendefinisikan struktur dari metode-metode, yang kemudian ha
 1. Dosen "Andi" dengan ID dosen "198765".
 2. Metode getName() mengembalikan nama dosen, dan getTeacherID() menampilkan ID dosen.
 
-# 3. Instansiasi Objek OnlineCourse dan OfflineCourse:
+# 3. Instanisasi Objek OnlineCourse dan OfflineCourse:
 1. OnlineCourse dengan nama kursus "Pemrograman Web".
 2. OfflineCourse dengan nama kursus "Bahasa Inggris".
 
