@@ -121,19 +121,22 @@ class DosenAbstraction extends PenggunaAbstraction {
 
 $mahasiswa = new Mahasiswa("Aditya Nugroho", "230302073", "Teknik Informatika");
 echo $mahasiswa->tampilkandata() . "<br>";
-
+echo "<br>";
 $dosen = new Dosen("Harry", "Matematika");
 echo $dosen->tampilkandatadosen() . "<br>";
-
+echo "<br>";
 $dosenPoly = new DosenPoly("Harry");
 $mahasiswaPoly = new MahasiswaPoly("Aditya Nugroho");
 
 echo $dosenPoly->aksesfitur() . "<br>";
+echo "<br>";
 echo $mahasiswaPoly->aksesfitur() . "<br>";
+echo "<br>";
 
 $dosenAbstrak = new DosenAbstraction("Harry");
 $mahasiswaAbstrak = new MahasiswaAbstraction("Aditya Nugroho");
 
 echo $dosenAbstrak->aksesfitur() . "<br>";
+echo "<br>";
 echo $mahasiswaAbstrak->aksesfitur() . "<br>";
 ?>
