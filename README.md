@@ -1,7 +1,7 @@
 # 1. Jobsheet1
 # Coding jobsheet1
 <img width="416" alt="codingan jobb1" src="https://github.com/user-attachments/assets/07b03d47-1853-4dd8-a7ab-34251e68c8e6">
-<img width="464" alt="codingan jobb1 1" src="https://github.com/user-attachments/assets/2338ad69-5ea2-46f8-affc-d315b17f716b">
+<img width="428" alt="jobb1 2" src="https://github.com/user-attachments/assets/b63bb144-2329-438f-86a1-82059b1ba9bb">
 
 # Penjelasan
 # 1. Class
@@ -32,7 +32,30 @@ Kemudian atribut jurusan menggunakan metode updateJurusan().
 Setelah itu setter digunakan untuk mengubah NIM dan nama. Nilai NIM diubah menggunakan setNim() dan nama diubah menggunakan setNama().
 
 # Output
-<img width="404" alt="Jobsheet1" src="https://github.com/user-attachments/assets/e314bac4-b100-476f-8d52-c7353a39146d">
+<img width="447" alt="Output jobsheet1" src="https://github.com/user-attachments/assets/c9815ce2-3906-474c-889a-65e0d537cf49">
+
+# 1. Tugas Modul 1 dan 2
+# Coding Tugas Modul 1 dan 2
+<img width="477" alt="tugas modul 1 dan 2" src="https://github.com/user-attachments/assets/b5655add-00e3-4fe1-a609-4cfdd855f38e">
+
+# Penjelasan
+# 1. Class Dosen
+Class dosen mendeskrisipkan sebuah objek dosen yang memiliki atribut:
+1. $nama: Nama dosen.
+2. $nip: nip.
+3. $matakuliah: Mata kuliah yang diajar oleh dosen.
+
+# 2. Atribut Public
+Atribut di dalam class dosen dideklarasikan sebagai public, yang artinya bisa diakses dari luar class.
+
+# 3. Constructor
+Fungsi __construct adalah untuk menginisialisasi atribut.
+
+# 4. Method
+Metod ini menampilkan informasi dosen berupa nama, nip, dan mata kuliah yang diajar.
+
+# Output
+<img width="511" alt="Output tugas modul 1 dan 2" src="https://github.com/user-attachments/assets/c6c2f415-09dd-42f3-abf5-f152851b01ef">
 
 # 2. Jobsheet2
 # Coding jobsheet2
@@ -40,7 +63,8 @@ Setelah itu setter digunakan untuk mengubah NIM dan nama. Nilai NIM diubah mengg
 <img width="506" alt="codingan jobb2 1" src="https://github.com/user-attachments/assets/5b23b118-50ec-4396-bf00-eac3559a5369">
 <img width="428" alt="codingan jobb2 2" src="https://github.com/user-attachments/assets/325a3af6-3ff5-4998-a411-620e15585c08">
 <img width="344" alt="codingan jobb2 3" src="https://github.com/user-attachments/assets/c98636e2-54a5-4915-80ee-0488f00c01ad">
-<img width="445" alt="codingan jobb2 4" src="https://github.com/user-attachments/assets/2ffbe2e7-524b-43ae-a5c5-b5742b543bba">
+<img width="428" alt="jobb2 1" src="https://github.com/user-attachments/assets/78376834-105d-4a47-b7b8-3c3d90765460">
+
 
 # Penjelasan
 # 1. Class dan Object
@@ -71,13 +95,14 @@ Abstraction adalah menyembunyikan detail implementasi dan hanya menampilkan fung
 2. Class MahasiswaAbstraction dan DosenAbstraction: Mengimplementasikan metode aksesfitur() untuk menghasilkan output yang berbeda.
 
 # Output 
-<img width="389" alt="Jobshheet2" src="https://github.com/user-attachments/assets/9f51c028-49c2-498c-a8d2-edbdb20aa748">
+<img width="464" alt="Output jobsheet2" src="https://github.com/user-attachments/assets/d9272e96-be6e-423e-a56c-933beee39231">
 
 # 3. Jobsheet3
 # Coding jobsheet3
 <img width="313" alt="codingan jobb3" src="https://github.com/user-attachments/assets/eb3dc278-f5f6-47c4-b8cf-fef7284c0e0a">
 <img width="293" alt="codingan jobb3 1" src="https://github.com/user-attachments/assets/6dc5ab2a-2c03-48d4-b79d-4091751944ce">
-<img width="357" alt="codingan jobb3 2" src="https://github.com/user-attachments/assets/f6bc40b0-7b97-40e1-b52e-4b2afdc2a7be">
+<img width="303" alt="jobb3 1" src="https://github.com/user-attachments/assets/6995a7c5-c8b2-455d-9bde-1bbc61121f47">
+
 
 # Penjelasan
 # 1. Inheritance
@@ -117,9 +142,44 @@ Class abstrak hanya mendefinisikan struktur dari metode-metode, yang kemudian ha
 2. OfflineCourse dengan nama kursus "Bahasa Inggris".
 
 # Output
-<img width="394" alt="Jobsheet3" src="https://github.com/user-attachments/assets/a7403ba7-956f-4a0c-8f1f-868931667ae7">
+<img width="461" alt="Output jobsheet3" src="https://github.com/user-attachments/assets/8a3b7a4f-f0fc-4b8c-a365-fa0ff370b591">
 
+# 2. Tugas Modul 5 dan 6
+# Coding Tugas Modul 5 dan 6
+<img width="374" alt="tugas modul 5 dan 6" src="https://github.com/user-attachments/assets/ebdf1764-9cc5-441b-b8af-a3b62c2f21c8">
+<img width="392" alt="tugas modul 5 dan 6 1" src="https://github.com/user-attachments/assets/ece64d7f-50f3-4250-9484-50d3837a1228">
+<img width="539" alt="tugas modul 5 dan 6 2" src="https://github.com/user-attachments/assets/3938cc34-8885-4053-a86e-e389f9234c59">
 
+# Penjelasan
+# 1. Kelas person
+Kelas person adalah kelas induk yang mewakili individu dengan atribut:
+
+1. $nama
+2. __construct($nama)
+3. Method getNama()
+
+# 2. Inheritance
+Kelas dosen dan kelas mahasiswa adalah turunan dari kelas person.
+
+# 3. Polymorphism
+Kelas dosen dan mahasiswa masing-masing memiliki metode getRole():
+
+1. Dosen::getRole() mengembalikan "Dosen".
+2. Mahasiswa::getRole() mengembalikan "Mahasiswa".
+
+# 4. Encapsulation
+Atribut nidn (di dosen) dan nim (di mahasiswa) dilindungi dengan keyword private, yang berarti atribut ini hanya bisa diakses dari dalam kelasnya sendiri.
+
+Metode getNidn() di kelas dosen dan getNim() dikelas mahasiswa digunakan untuk mengambil nilai dari atribut yang dienkapsulasi tersebut.
+
+# 5. Abstraction
+Kelas jurnal adalah kelas abstrak, hyang berarti tidak dapat diintanisasi secara langsung.
+
+1. Atribut $judul, yang diinisialisasi melalui constructor.
+2. Metode abstrak ajukanJurnal(), yang harus diimplementasikan oleh kelas turunan dari jurnal.
+
+# Output
+<img width="553" alt="Output modul 5 dan 6" src="https://github.com/user-attachments/assets/f31f3967-fcaa-4e05-9f39-5a9831843e62">
 
 
 
