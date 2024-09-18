@@ -78,10 +78,12 @@ class OfflineCourse extends Course {
 $student = new Student("Aditya Nugroho", "230302073");
 echo $student->getName() . "<br>";
 echo "Student ID: " . $student->getStudentID() . "<br>";
+echo "<br>";
 
 $teacher = new Teacher("Andi", "198765");
 echo $teacher->getName() . "<br>";
 echo "Teacher ID: " . $teacher->getTeacherID() . "<br>";
+echo "<br>";
 
 $onlineCourse = new OnlineCourse("Pemrograman Web");
 $offlineCourse = new OfflineCourse("Bahasa Inggris");
