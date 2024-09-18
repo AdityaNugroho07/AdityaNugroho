@@ -36,17 +36,18 @@ $mahasiswa1 = new Mahasiswa("Aditya Nugroho", "230302073", "Teknik Informatika")
 
 // Tampilkan data mahasiswa
 echo $mahasiswa1->tampilkanData() . "<br>";
-
+echo "<br>";
 // Mengubah jurusan
 $mahasiswa1->updateJurusan("Sistem Informasi");
 echo $mahasiswa1->tampilkanData() . "<br>";
-
+echo "<br>";
 // Mengubah NIM menggunakan metode setter
 $mahasiswa1->setNim("230302991");
 echo $mahasiswa1->tampilkanData();
 echo "<br>";
 $mahasiswa1->setNama("Sidiq");
 echo $mahasiswa1->tampilkanData(). "<br>";
+echo "<br>";
 $mahasiswa1->updateJurusan("Multimedia");
 echo $mahasiswa1->tampilkanData(). "<br>";
 ?>
